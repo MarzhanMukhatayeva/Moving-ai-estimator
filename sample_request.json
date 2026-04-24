@@ -1,0 +1,8 @@
+{
+  "from_address": "123 Main St, Boston, MA",
+  "to_address": "456 Oak Ave, Cambridge, MA",
+  "move_size": "1 Bedroom",
+  "boxes": "20",
+  "stairs": "2 flights",
+  "elevator": "No"
+}
