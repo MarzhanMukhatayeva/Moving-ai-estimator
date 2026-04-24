@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+local.settings.json
+.azure/
+
+.env
+.env.*
+
+.DS_Store
+.vscode/
