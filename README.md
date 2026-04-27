@@ -137,15 +137,9 @@ Please note this is a preliminary estimate and may vary depending on inventory, 
 
 Best regards,  
  
-Seven Moving  
+Moving company  
 
-💡 Future Improvements
-	•	📊 Admin dashboard for tracking estimates
-	•	📱 Customer-facing UI (no Google Forms)
-	•	🧠 Smarter pricing optimization
-	•	📅 Scheduling integration
 
-⸻
 
 👤 Author
 
