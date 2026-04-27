@@ -20,6 +20,14 @@ A customer submits move details through a Google Form, and the system:
 This simulates a real-world backend system used in logistics and service businesses.
 
 ⸻
+## 🏗 Architecture
+
+Frontend: Google Forms  
+Processing: Google Apps Script  
+Backend: Azure Functions (Python)  
+APIs: Google Routes API, OpenAI API  
+Storage: Google Sheets  
+
 
 🔄 System Workflow
 Customer
@@ -139,7 +147,16 @@ Best regards,
  
 Moving company  
 
+## ⚙️ Challenges & Solutions
 
+- Google Maps API errors (REQUEST_DENIED, routing issues)
+  → Fixed by enabling correct APIs and billing configuration
+
+- Data inconsistencies between Apps Script and Azure
+  → Standardized JSON structure and logging
+
+- Ensuring deterministic pricing
+  → Separated business logic from AI components
 
 👤 Author
 
